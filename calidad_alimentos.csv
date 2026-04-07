@@ -1,0 +1,11 @@
+﻿Fecha;Producto;Temperatura;Lote;Incidencia;Tipo_Problema
+1/01/2025;Pescado;-2;L001;No;Ninguno
+1/01/2025;Carne;5;L002;Si;Temperatura alta
+2/01/2025;Pescado;-1;L003;No;Ninguno
+2/01/2025;Pollo;8;L004;Si;Temperatura alta
+3/01/2025;Pescado;-3;L005;No;Ninguno
+3/01/2025;Carne;6;L006;Si;Contaminacion 
+4/01/2025;Pollo;2;L007;No;Ninguno
+4/01/2025;Pescado;4;L008;Si;Temperatura alta
+5/01/2025;Carne;3;L009;No;Ninguno
+5/01/2025;Pollo;7;L010;Si;Temperatura alta
