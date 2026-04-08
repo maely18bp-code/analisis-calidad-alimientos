@@ -88,11 +88,19 @@ Esto sugiere la necesidad de mejorar controles diarios en lugar de actuar solo a
 
 ## 📁 Estructura del proyecto
 analisis_calidad_alimentos/
+
 │
+
 ├── data/
+
 │ └── calidad_alimentos.csv
+
 │
+
 ├── notebooks/
+
 │ └── analisis.ipynb
+
 │
+
 └── README.md
